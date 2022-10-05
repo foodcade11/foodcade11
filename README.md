@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @foodcade11
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 foodcade11/foodcade11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="img/githubcover.png" widith="100%" alt="mhbaando github cover">
 
-
+<h2 align="center">Hey 👋 Welcome to my page! </h2> 
 I'm Abdirahman Hassan full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches.
 
 
