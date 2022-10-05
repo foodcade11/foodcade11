@@ -3,9 +3,12 @@
 foodcade11/foodcade11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="img/githubimg.png" widith="100%" alt="mhbaando github cover">
-
+<!-- <img src="img/githubimg.png" widith="100%" alt="mhbaando github cover">
+ -->
 <h2 align="center">Hey 👋 Welcome to GitHub Profile! </h2> 
+ <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
+</p>
 I'm Abdirahman Hassan full-stack developer and Designer building my version of the digital world one step at a time.<br> All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
 
